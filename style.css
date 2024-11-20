@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar-toggler
+{
+    outline: none !important;
+    padding: 0 !important;
+}
+.navbar-toggler img
+{
+    padding: 0;
+}
+
+.navbar-brand img
+{   
+    width:110px ;
+
+}
+
+.nav-link
+{
+    color: #a669ce
+    ;
+
+}
